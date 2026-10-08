@@ -308,8 +308,8 @@ Primary companion: DDIA Ch. 8 and 9; MIT 6.5840 (6.824) lectures; Kleppmann's di
 | Day | Date | Topic | Done | Understanding (1–5) | Revisit |
 |---|---|---|---|---|---|
 | 1 | 2026-10-08 | Core vocabulary | ☑ | | |
-| 2 | | Networking foundations | ☐ | | |
-| 3 | | Protocols & communication styles | ☐ | | |
+| 2 | 2026-10-08 | Networking foundations | ☑ | | |
+| 3 | 2026-10-08 | Protocols & communication styles | ☑ | | |
 | 4 | | Load balancing & proxies | ☐ | | |
 | 5 | | Caching I: fundamentals | ☐ | | |
 | 6 | | Caching II: failure modes & consistent hashing | ☐ | | |
